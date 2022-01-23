@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Algorithm-visualiser/static/css/main.8496b234.chunk.css",
+    "main.js": "/Algorithm-visualiser/static/js/main.6be60bd2.chunk.js",
+    "main.js.map": "/Algorithm-visualiser/static/js/main.6be60bd2.chunk.js.map",
+    "runtime-main.js": "/Algorithm-visualiser/static/js/runtime-main.f2123b0c.js",
+    "runtime-main.js.map": "/Algorithm-visualiser/static/js/runtime-main.f2123b0c.js.map",
+    "static/css/2.14b54013.chunk.css": "/Algorithm-visualiser/static/css/2.14b54013.chunk.css",
+    "static/js/2.048d3490.chunk.js": "/Algorithm-visualiser/static/js/2.048d3490.chunk.js",
+    "static/js/2.048d3490.chunk.js.map": "/Algorithm-visualiser/static/js/2.048d3490.chunk.js.map",
+    "static/js/3.593e90bf.chunk.js": "/Algorithm-visualiser/static/js/3.593e90bf.chunk.js",
+    "static/js/3.593e90bf.chunk.js.map": "/Algorithm-visualiser/static/js/3.593e90bf.chunk.js.map",
+    "index.html": "/Algorithm-visualiser/index.html",
+    "static/css/2.14b54013.chunk.css.map": "/Algorithm-visualiser/static/css/2.14b54013.chunk.css.map",
+    "static/css/main.8496b234.chunk.css.map": "/Algorithm-visualiser/static/css/main.8496b234.chunk.css.map",
+    "static/js/2.048d3490.chunk.js.LICENSE.txt": "/Algorithm-visualiser/static/js/2.048d3490.chunk.js.LICENSE.txt",
+    "static/media/15puzzle.5f6e8f37.PNG": "/Algorithm-visualiser/static/media/15puzzle.5f6e8f37.PNG",
+    "static/media/binaryTree.6d8ce938.png": "/Algorithm-visualiser/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/Algorithm-visualiser/static/media/convexHull.2720e7cd.png",
+    "static/media/graph.6e6849d5.png": "/Algorithm-visualiser/static/media/graph.6e6849d5.png",
+    "static/media/primes.72a2f33f.jpg": "/Algorithm-visualiser/static/media/primes.72a2f33f.jpg",
+    "static/media/queen.70cba2dd.PNG": "/Algorithm-visualiser/static/media/queen.70cba2dd.PNG",
+    "static/media/queen.a967028b.png": "/Algorithm-visualiser/static/media/queen.a967028b.png",
+    "static/media/index.css": "/Algorithm-visualiser/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/Algorithm-visualiser/static/media/sort.117e08fc.png",
+    "static/media/sudoku.58363375.png": "/Algorithm-visualiser/static/media/sudoku.58363375.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2123b0c.js",
+    "static/css/2.14b54013.chunk.css",
+    "static/js/2.048d3490.chunk.js",
+    "static/css/main.8496b234.chunk.css",
+    "static/js/main.6be60bd2.chunk.js"
+  ]
+}
