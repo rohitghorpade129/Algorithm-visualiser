@@ -1,0 +1,36 @@
+header{
+    background-color: rgb(141, 169, 239);
+    text-align: center;
+    
+}
+
+.active{
+    background-color: rgb(141, 169, 239);
+    text-align: center;
+}
+
+.inactive{
+    background-color: rgb(1, 8, 25);
+    text-align: center;
+}
+
+.logo{
+    color:rgb(255, 254, 254);
+    font-size: 40px;
+    font-family: 'Anton';
+    
+}
+
+.newsitem{
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 0;
+}
+
+header input{
+    font-size: 20px;
+    margin: 20px 0;
+}
